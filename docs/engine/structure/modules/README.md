@@ -19,4 +19,5 @@ This modular system is all about giving you control. Add only what matters, leav
 > A more detailed description of what each module does can be found in the [list of modules](#List%20of%20Modules) below.
 
 ## List of Modules
-- [Health Module](Health)
+- [Health Module](Health.md)
+- [Stat Module](Stat.md)
