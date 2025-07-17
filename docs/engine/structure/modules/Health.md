@@ -1,5 +1,5 @@
 # Health Module
-The **Health Module** represents a character’s life points. It tracks how much health an entity currently has, how much they can have at their best, and any extra temporary health they've gained through any means.
+The **Health Module** represents a character’s life points. It tracks how much health an [entity](../entities/README.md) currently has, how much they can have at their best, and any extra temporary health they've gained through any means.
 
 ### What it includes:
 - **Max Health** – The total health the character can have when fully healed.
@@ -8,4 +8,4 @@ The **Health Module** represents a character’s life points. It tracks how much
 
 
 ***
-![List of all modules](README#List%20of%20Modules)
+![List of all modules](README.md#List%20of%20Modules)

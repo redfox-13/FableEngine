@@ -1,6 +1,6 @@
 # Mechanics
 ## What are World Mechanics?
-**World Mechanics** (or **Game Mechanics**) are the foundational systems that define how things _work_ in a TTRPG world. These mechanics aren’t tied to any entity or item—instead, they provide the rules and tools that drive gameplay at a global level.
+**World Mechanics** (or **Game Mechanics**) are the foundational systems that define how things _work_ in a TTRPG world. These mechanics aren’t tied to any [entity](../../../entities/README.md) or [item](../items/README.md)—instead, they provide the rules and tools that drive gameplay at a global level.
 
 Some examples include:
 
@@ -15,5 +15,5 @@ The goal of **World Mechanics** is to give you flexible, reusable systems that c
 > Following this is a [list of world mechanics](#List%20of%20World%20Mechanics) that can be used.
 
 ## List of World Mechanics
-- [Dice](Dice)
-- [Effects](Effects)
+- [Dice](Dice.md)
+- [Effects](Effects.md)

@@ -18,18 +18,18 @@ For example, an **entity** might include:
 
 - **Currency**, **Inventory** – to support interactions with the world
 
-> See the [Overview of Modules](../modules/README) for more information and a complete list of available modules.
+> See the [Overview of Modules](../modules/README.md) for more information and a complete list of available modules.
 ### Types of Entities
 
 You’ll find some pages in this documentation detailing different types of **entities** you can create, such as:
 
-- [Players](Players) – characters that players will roleplay during gameplay
+- [Players](Players.md) – characters that players will roleplay during gameplay
   
-- [Non-Playable](Non-Playable) – non-player characters managed by the DM
+- [Non-Playable](Non-Playable.md) – non-player characters managed by the DM
   
-- [Companions](Companions) – companion characters that follow the players
+- [Companions](Companions.md) – companion characters that follow the players
   
-- [Creatures](Creatures) – creatures controlled by the DM
+- [Creatures](Creatures.md) – creatures controlled by the DM
 
 ### World Interactions
 

@@ -1,7 +1,7 @@
 # Modules
 ## What are Modules?
 
-**Modules** are the pieces that make up an [entity](../entities/README). Each one handles a specific part of what a character is or does—like how much health it has, how fast it moves, or what items it carries.
+**Modules** are the pieces that make up an [entity](../entities/README.md). Each one handles a specific part of what a character is or does—like how much health it has, how fast it moves, or what items it carries.
 
 Why break it all into modules? Because flexibility and full customization is the goal.
 

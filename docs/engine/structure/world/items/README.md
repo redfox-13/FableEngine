@@ -11,7 +11,7 @@ That’s it! But when you need the item to actually _do_ something—like deal d
 
 ### Adding Details with Modules
 
-**Item Modules** are what give items more functionality. Just like [character entities](../../entities/README), items start simple—with a name and a description—but can be extended using modules to define what they actually _do_.
+**Item Modules** are what give items more functionality. Just like [character entities](../../entities/README.md), items start simple—with a name and a description—but can be extended using modules to define what they actually _do_.
 
 Modules let you build the exact item you need:
 
