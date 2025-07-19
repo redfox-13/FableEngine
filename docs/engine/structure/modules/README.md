@@ -6,9 +6,7 @@
 Why break it all into modules? Because flexibility and full customization is the goal.
 
 With this setup:
-
 - **Players** can build anything they imagine. Whether it’s a classic adventurer, a weird hybrid creature, or something totally unexpected—you only add the modules you need.
-
 - **DMs** can create everything from fully fleshed-out NPCs to quick, lightweight characters that only include a name, a short description, or maybe an inventory to represent a shop.
 
 
@@ -21,4 +19,5 @@ This modular system is all about giving you control. Add only what matters, leav
 ## List of Modules
 - [Health Module](Health.md)
 - [Stat Module](Stat.md)
+- [DicePool](DicePool.md)
 - [Text Module](Text.md)
