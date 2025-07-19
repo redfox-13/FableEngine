@@ -26,3 +26,4 @@ An extension:
 > Extensions follow the same modular philosophy as core modules: they’re opt-in, composable, and designed to interact cleanly with the rest of the system.
 
 ## List of Extensions
+- [Level](Level.md)
