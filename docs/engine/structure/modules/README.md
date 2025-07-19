@@ -17,7 +17,8 @@ This modular system is all about giving you control. Add only what matters, leav
 > A more detailed description of what each module does can be found in the [list of modules](#List%20of%20Modules) below.
 
 ## List of Modules
+- [DeathSaves](DeathSaves.md)
+- [DicePool](DicePool.md)
 - [Health Module](Health.md)
 - [Stat Module](Stat.md)
-- [DicePool](DicePool.md)
 - [Text Module](Text.md)
